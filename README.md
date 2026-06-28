@@ -77,6 +77,10 @@ No        Yes
  │ SMTP Notification
  │         ▼
  │ Mobile App Alert
+ │
+ ▼
+Check Again
+
 ```
 
 ---

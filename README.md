@@ -1,4 +1,4 @@
-# Vigilant AI-Powered Fall Detection with Embedded LiDAR Technology
+# Vigilant Fall Detection with Embedded LiDAR Technology
 
 An AI-powered healthcare monitoring system that detects human falls using LiDAR and Computer Vision while preserving user privacy through selective camera activation.
 
